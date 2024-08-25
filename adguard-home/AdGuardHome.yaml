@@ -115,21 +115,9 @@ filters:
     name: AdAway
     id: 2
   - enabled: true
-    url: https://www.malwaredomainlist.com/hostslist/hosts.txt
-    name: MalwareDomainList.com Hosts List
-    id: 4
-  - enabled: true
-    url: https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
-    name: The Big List of Hacked Malware Web Sites
-    id: 1621453119
-  - enabled: true
-    url: https://curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
-    name: Online Malicious URL Blocklist
-    id: 1621453120
-  - enabled: true
-    url: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
-    name: Scam Blocklist by DurableNapkin
-    id: 1621453364
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt
+    name: HaGeZi's Normal DNS Blocklist
+    id: 3
   - enabled: true
     url: https://raw.githubusercontent.com/davidcoulson/kubernetes/main/adguard-home/cache-domains.txt
     name: LANCache domains
