@@ -130,6 +130,10 @@ filters:
     url: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
     name: Scam Blocklist by DurableNapkin
     id: 1621453364
+  - enabled: true
+    url: https://raw.githubusercontent.com/davidcoulson/kubernetes/main/adguard-home/cache-domains.txt
+    name: LANCache domains
+    id: 8675309
 whitelist_filters: []
 dhcp:
   enabled: false
