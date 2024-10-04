@@ -34,7 +34,7 @@ dns:
     - '[/31.172.in-addr.arpa/]172.31.0.1:53'
     - '[/2.10.in-addr.arpa/]10.2.5.1:53'
     - '[/k8s.coulson.io/]10.43.187.215'
-    - '[/example/coulson.io/]10.2.6.21:53'
+    - '[/coulson.io/]10.43.68.34:53'
   bootstrap_dns:
     - 9.9.9.10
     - 149.112.112.10
