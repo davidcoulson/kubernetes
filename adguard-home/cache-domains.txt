@@ -91,17 +91,6 @@
 ||wg.gcdn.co^$dnsrewrite=NOERROR;A;10.2.6.15
 ||wgus-wotasia.wargaming.net^$dnsrewrite=NOERROR;A;10.2.6.15
 ||wgus-woteu.wargaming.net^$dnsrewrite=NOERROR;A;10.2.6.15
-||dl.delivery.mp.microsoft.com^$dnsrewrite=NOERROR;A;10.2.6.15
-||do.dsp.mp.microsoft.com^$dnsrewrite=NOERROR;A;10.2.6.15
-||microsoft.com.edgesuite.net^$dnsrewrite=NOERROR;A;10.2.6.15
-||update.microsoft.com^$dnsrewrite=NOERROR;A;10.2.6.15
-||windowsupdate.com^$dnsrewrite=NOERROR;A;10.2.6.15
-||amupdatedl.microsoft.com^$dnsrewrite=NOERROR;A;10.2.6.15
-||amupdatedl2.microsoft.com^$dnsrewrite=NOERROR;A;10.2.6.15
-||amupdatedl3.microsoft.com^$dnsrewrite=NOERROR;A;10.2.6.15
-||amupdatedl4.microsoft.com^$dnsrewrite=NOERROR;A;10.2.6.15
-||amupdatedl5.microsoft.com^$dnsrewrite=NOERROR;A;10.2.6.15
-||dl.delivery.mp.microsoft.com^$dnsrewrite=NOERROR;A;10.2.6.15
 ||assets1.xboxlive.com^$dnsrewrite=NOERROR;A;10.2.6.15
 ||assets1.xboxlive.com.nsatc.net^$dnsrewrite=NOERROR;A;10.2.6.15
 ||assets2.xboxlive.com^$dnsrewrite=NOERROR;A;10.2.6.15
